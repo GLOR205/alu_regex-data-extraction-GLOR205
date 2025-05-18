@@ -1,10 +1,10 @@
 {
-  "profile_owner": "gisele_mwizera",
+  "profile_owner": "gloria_mwizera",
   "followers": [
     {
-      "username": "techgirl_250",
+      "username": "techlady_250",
       "full_name": "Claudine Niyonsaba",
-      "bio": "Software Engineer | #WomenInTech 💻 | Contact: claudine.tech@gmail.com 📱 +250788112233",
+      "bio": "Software Engineer | #WomenInTech 💻 | Contact: claudine.tech@gmail.com 📱 +250788112233 | Earned $2,000 from freelance projects",
       "email": "claudine.tech@gmail.com",
       "phone": "+250788112233",
       "website": "https://github.com/claudine250",
@@ -17,7 +17,7 @@
     {
       "username": "afro.stylez",
       "full_name": "Afro Fashionista",
-      "bio": "Bringing African culture to the world 🌍 | DM for collabs 📩 | #KigaliStyle #Fashion",
+      "bio": "Bringing African culture to the world 🌍 | DM for collabs 📩 | #KigaliStyle #Fashion | Shop items starting from RWF 10,000",
       "email": null,
       "phone": null,
       "website": "https://afrostylez.com",
@@ -30,7 +30,7 @@
     {
       "username": "codeking.rw",
       "full_name": "Jean de Dieu Mugenzi",
-      "bio": "CTO @RwTech 💼 | AI Dev | email: mugenzi@rwtech.rw | Call: 0788123123",
+      "bio": "CTO @RwTech 💼 | AI Dev | email: mugenzi@rwtech.rw | Call: 0788123123 | Consulting rate: €100/hour",
       "email": "mugenzi@rwtech.rw",
       "phone": "0788123123",
       "website": "https://rwtech.rw/team/mugenzi",
@@ -43,7 +43,7 @@
     {
       "username": "healthplus_clinic",
       "full_name": "Health Plus Clinic",
-      "bio": "Private Clinic | Book online or call 0788990000 | #KigaliHealth #Wellness",
+      "bio": "Private Clinic | Book online or call 0788990000 | #KigaliHealth #Wellness | Consultation starts at £50",
       "email": null,
       "phone": "0788990000",
       "website": "https://healthplus.rw",
@@ -55,3 +55,4 @@
     }
   ]
 }
+
