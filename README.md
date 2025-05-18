@@ -1,7 +1,4 @@
- HEAD
-# alu_regex-data-extraction-GLOR205
-Regex assesment
-=======
+
 # Regex Data Extraction - GLOR205
 
 I built this project as part of a task to extract specific types of data from raw text using Python and regular expressions.
@@ -24,4 +21,4 @@ Make sure you have Python installed. Then just do:
 ```bash
 python main.py
 
-83873c4 (my work)
+
